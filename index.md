@@ -1,8 +1,14 @@
 ## KLOI出题组
 
-You can use the [editor on GitHub](https://github.com/Iris-Maroon/Iris-Maroon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[![qLjEuR.png](https://s1.ax1x.com/2022/04/05/qLjEuR.png)](https://imgtu.com/i/qLjEuR)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+upd  by zzds:
+
+以后申请那一栏再填【qwq】那类的直接拉黑，如果想加入请填写上想干的活，但是在这里不允许划水，本团不招吉祥物。
+
+欢迎来到KLOI出题组，目前加入没有条件，不管你是蓝名还是灰名，只要你有足够新的idea，就欢迎你加入。审核时记得标上你的分组，尽量在1~3个小时内审核完成。
+
+想加入的话暂时没有门槛，目标是出一场良心の月赛 qwq
 
 ### Markdown
 
