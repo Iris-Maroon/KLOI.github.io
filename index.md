@@ -10,11 +10,8 @@ upd  by zzds:
 
 想加入的话暂时没有门槛，目标是出一场良心の月赛 qwq
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+### 关于KLOI
+目前由风晓和zsd
 Syntax highlighted code block
 
 # Header 1
